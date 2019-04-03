@@ -1,0 +1,28 @@
+{
+  "name": "udemy-node-rest-api",
+  "version": "1.0.0",
+  "description": "Learn Rest API with NodeJS more advanced with course from Udemy: https://www.udemy.com/nodejs-master-class/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahyubucil/udemy-node-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahyubucil/udemy-node-rest-api/issues"
+  },
+  "homepage": "https://github.com/wahyubucil/udemy-node-rest-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
